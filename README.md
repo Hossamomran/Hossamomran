@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hossamomran
 - 👀 I Create WebSites using WordPress and native Code
-- 🌱 I’m currently learning AWS Clod Fundamentals and Front End Development professional course from Coursera
+- 🌱 I’m currently learning AWS Cloud Fundamentals and Front End Development professional course from Coursera
 - 📫 Contact me at my linkedin https://www.linkedin.com/in/hossam-omran-cms
 
 <!---
